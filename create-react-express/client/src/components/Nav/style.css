@@ -1,0 +1,7 @@
+h3 {
+  color: white;
+}
+
+.nav-link.mt-2:hover {
+  text-decoration: underline;
+}

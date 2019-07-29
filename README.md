@@ -1,36 +1,35 @@
 # Google Books Search App
-### Homepage
-![WebApp Homepage](media/homepage.png)
-
 Technologies used:
-`React.js`
+- `React.js`
+- `Bootstrap`
+- `API's`
+- `Heroku` (Hosting and Deployment)
+- `GitHub` (Hosting and Deployment)
 
 ## GitHub Repo
-
 https://github.com/ejbronze/GoogleBooksSearch
 
-## Heroku App
-
+## Heroku App (Working)
 https://google-booksearcher.herokuapp.com/
 
-### This is still a work in progress.
+# Starting the app locally
 
-## Starting the app locally
-
-Start by installing front and backend dependencies. While in this directory, run the following command:
+1. Start by installing front and backend dependencies. While in this directory, run the following command:
 
 ```
 npm install
 ```
-
 This should install node modules within the server and the client folder.
 
-After both installations complete, run the following command in your terminal:
+2. After installation is complete, run the following command in your terminal:
 
 ```
 npm start
 ```
-
 Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
 
+# App Walkthrough
 
+### Homepage
+![WebApp Homepage](media/homepage.png)
+As of June 2019, the homepage looks like the image above.

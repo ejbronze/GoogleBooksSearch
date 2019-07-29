@@ -33,3 +33,8 @@ Your app should now be running on <http://localhost:3000>. The Express server sh
 ### Homepage
 ![WebApp Homepage](media/homepage.png)
 As of June 2019, the homepage looks like the image above.
+
+How The App Works:
+1. On the Homepage, you'll see the following elements
+    - A Navigation bar
+    

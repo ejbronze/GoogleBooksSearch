@@ -34,7 +34,14 @@ Your app should now be running on <http://localhost:3000>. The Express server sh
 ![WebApp Homepage](media/homepage.png)
 As of June 2019, the homepage looks like the image above.
 
-How The App Works:
+### How The App Works:
 1. On the Homepage, you'll see the following elements
     - A Navigation bar
-    
+    - Jumbotron section with the name of the app and it's use
+    - Section to search for books
+    - Results section
+2. The elements are all styled using Bootstrap
+3. When a user searches for a book, the app searches and scrapes the google books API for results, which are then sorted and displayed in the results section of the app.
+4. Users can Save the searches under the Saved tab on the Navbar
+
+### Future improvements and features:

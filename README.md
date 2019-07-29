@@ -1,5 +1,17 @@
+# Google Books Search App
+
+Technologies used:
+React.js
+
+## GitHub Repo
+
+https://github.com/ejbronze/GoogleBooksSearch
+
+## Heroku App
+
+https://google-booksearcher.herokuapp.com/
+
 ### This is still a work in progress.
-# Create React Express App
 
 ## Starting the app locally
 
@@ -19,10 +31,4 @@ npm start
 
 Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
 
-## GitHub Repo
 
-https://github.com/ejbronze/GoogleBooksSearch
-
-## Heroku App
-
-https://google-booksearcher.herokuapp.com/

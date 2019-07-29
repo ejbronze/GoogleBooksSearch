@@ -1,7 +1,9 @@
 # Google Books Search App
+### Homepage
+![WebApp Homepage](media/homepage.png)
 
 Technologies used:
-React.js
+`React.js`
 
 ## GitHub Repo
 
